@@ -1,17 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "visa1.png",
+      "filename" : "mir1.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "visa2.png",
+      "filename" : "mir2.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "visa3.png",
+      "filename" : "mir3.png",
       "idiom" : "universal",
       "scale" : "3x"
     }
